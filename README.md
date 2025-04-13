@@ -12,7 +12,7 @@
 :construction: Projeto em construção :construction:
 
 - 🔭 I’m currently working on _____...
-- 🌱"I'm currently studying and practicing web development."
+- 🌱 I'm currently studying and practicing web development, data science, and a bit of back-end development.
 - 🤔 I’m looking for help with **learning best practices in web development**
 - 💬 Ask me about **my learning journey and what I'm currently studying**
 - 📫 How to reach me: **personal email: joaopedromodesto505@gmail.com | Discord: Modesto.2136**
